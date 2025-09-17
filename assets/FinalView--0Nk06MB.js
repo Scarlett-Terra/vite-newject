@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{c as t,o as s,a as r}from"./index-8W6D_qYI.js";const n={},a={class:"middleToDo"};function c(i,o){return s(),t("div",a,o[0]||(o[0]=[r("h2",null," 最終 to do list ",-1)]))}const _=e(n,[["render",c]]);export{_ as default};
