@@ -1,35 +1,61 @@
-# vite-project
+# 🛒 Vue3 作業合集（Vite + Vue3）
 
-This template should help get you started developing with Vue 3 in Vite.
+這是一個使用 Vue3 + Vite 完成的小型作業展示。  
+內容包含：商品列表、加入購物車、金額計算、數量增減、刪除項目，以及簡易登入驗證流程。
 
-## Recommended IDE Setup
+此作業主要用於練習 Vue3 基礎觀念，包括：  
+- Component 元件拆分  
+- Props & Emits  
+- Computed 計算屬性  
+- Reactive 狀態管理
+- Router 練習 
+- 基本事件處理  
+- 前端登入驗證流程（前台 demo）
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+---
 
-## Customize configuration
+## 🔗 Demo 網站
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+👉 線上瀏覽作品  
+https://Scarlett-Terra.github.io/vite-newject/
 
-## Project Setup
+※ 如遇畫面空白，多為 GitHub Pages Router / Path 設定，可刷新或重新部署。
 
-```sh
-npm install
-```
+---
 
-### Compile and Hot-Reload for Development
+## 🚀 使用技術 (Tech Stack)
 
-```sh
-npm run dev
-```
+- Vue 3 (Composition API)
+- Vite
+- JavaScript (ES6+)
+- HTML5 / CSS3
 
-### Compile and Minify for Production
+---
 
-```sh
-npm run build
-```
+## 📦 功能介紹 (Features)
 
-### Lint with [ESLint](https://eslint.org/)
+### 📌 1. 飲料商品列表展示
+- 顯示可加入購物車的商品清單  
+- 提供商品名稱、描述、價格等資訊  
 
-```sh
-npm run lint
-```
+### 📌 2. 元件加入購物車
+- 點擊商品可加入購物車  
+- 若商品已存在則累加數量  
+
+### 📌 3. 商品數量增減
+- 可調整商品數量（＋ / −）  
+- 即時計算總金額  
+
+### 📌 4. 刪除單一商品
+- 從購物車中移除項目  
+
+### 📌 5. 金額計算
+- 動態更新：單項小計 + 購物車總金額  
+
+### 📌 6. 簡易登入驗證（Demo）
+- 前端驗證帳號密碼    
+- 錯誤帳密提示  
+
+---
+
+## 🗂 Vue3 作業
