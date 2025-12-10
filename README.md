@@ -1,18 +1,20 @@
 # 🛒 Vue3 作業合集（Vite + Vue3）
+# Vite Newject (Vue3 Practice Collection)
 
-這是一個使用 Vue3 + Vite 完成的小型作業展示。  
+這是一個 **新手練習合輯**，主要練習 Vue3 基本語法、組件、路由與狀態管理。  
+部分功能尚未完成，僅供個人練習參考。
 內容包含：商品列表、加入購物車、金額計算、數量增減、刪除項目，以及簡易登入驗證流程。
 
 此作業主要用於練習 Vue3 基礎觀念，包括：  
-- Component 元件拆分  
-- Props & Emits  
-- Computed 計算屬性  
-- Reactive 狀態管理
-- Router 練習 
-- 基本事件處理  
-- 前端登入驗證流程（前台 demo）
+## 功能
+- Vue3 組件練習
+- Vue Router 路由練習
+- 事件綁定與資料綁定練習
+- 部分 TodoList、列表操作練習（未完成）
 
 ---
+## 注意
+此專案為練習用途
 
 ## 🔗 Demo 網站
 
